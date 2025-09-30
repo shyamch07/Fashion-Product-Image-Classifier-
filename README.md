@@ -43,8 +43,10 @@ This project implements a **Convolutional Neural Network (CNN)** to classify fas
 
 ---
 
-## Author
 
-**Shyam Chitakala**
+OUTPUT : 
 <img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/1036500f-1d2d-43a9-888c-bf39c962905f" />
+
+AUTHOR 
+ SHYAM CHITAKALA
 
