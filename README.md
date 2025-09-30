@@ -47,7 +47,7 @@ This project implements a **Convolutional Neural Network (CNN)** to classify fas
 
 The following plot shows the **training vs validation accuracy** of the CNN model over 5 epochs:
 
-![Training vs Validation Accuracy](output.png)
+Training vs Validation Accuracy
 
 As seen in the plot:  
 - The training accuracy increases steadily and reaches around 89%.  
