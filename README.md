@@ -42,11 +42,16 @@ This project implements a **Convolutional Neural Network (CNN)** to classify fas
 * Extend to handle **custom image uploads**.
 
 ---
-
-
-OUTPUT : 
 <img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/1036500f-1d2d-43a9-888c-bf39c962905f" />
+## Model Training Output
 
-AUTHOR 
- SHYAM CHITAKALA
+The following plot shows the **training vs validation accuracy** of the CNN model over 5 epochs:
+
+![Training vs Validation Accuracy](output.png)
+
+As seen in the plot:  
+- The training accuracy increases steadily and reaches around 89%.  
+- The validation accuracy closely follows the training accuracy, indicating that the model is **not overfitting**.  
+- This demonstrates that the model learns to classify fashion images effectively across all 10 categories.
+
 
